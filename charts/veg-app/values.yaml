@@ -2,7 +2,7 @@ namespace: namespace-ns
 
 # vegetable-app deployment values
 
-replicas: 2
+replicas: 4
 deployment:
   labels:
     app: vegetable
